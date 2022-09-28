@@ -1,0 +1,32 @@
+{
+name": "vine two",
+
+  "version": "0.0.1",
+
+  "author": "Lunarian Productions",
+
+  "description": "The new vine. You're welcome.",
+
+  "dependencies": {
+
+    "request": "~2.25.0",
+
+    "lodash": "~1.3.1",
+
+    "colors": "~0.6.1",
+
+    "q": "~0.9.6",
+
+    "pkginfo": "~0.3.0"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/LunarianProductions/Vine-2"
+
+  }
+
+}
